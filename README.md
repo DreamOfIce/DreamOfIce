@@ -1,6 +1,6 @@
-![Github状态概览](https://github-readme-stats.vercel.app/api?username=DreamOfIce&show_icons=true&bg_color=62,#8EC5FC,#E0C3FC&title_color=fff&text_color=fff)
+![Github状态概览](https://github-readme-stats.vercel.app/api?username=DreamOfIce&show_icons=true&bg_color=62,8EC5FC,E0C3FC&title_color=fff&text_color=fff)
 
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOfIce&layout=compact&bg_color=62,#8EC5FC,#E0C3FC&title_color=fff&text_color=fff)
+![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamOfIce&layout=compact&bg_color=62,8EC5FC,E0C3FC&title_color=fff&text_color=fff)
 
 <!--
 [![HoYoRandom](https://github-readme-stats.vercel.app/api/pin/?username=DreamOfIce&repo=HoYoRandom-php)](https://github.com/DreamOfIce/HoYoRandom-php)
